@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MSTube/static/css/main.8d3bb1a0.css",
+    "main.js": "/MSTube/static/js/main.fea8ca5a.js",
+    "index.html": "/MSTube/index.html",
+    "main.8d3bb1a0.css.map": "/MSTube/static/css/main.8d3bb1a0.css.map",
+    "main.fea8ca5a.js.map": "/MSTube/static/js/main.fea8ca5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.fea8ca5a.js"
+  ]
+}
