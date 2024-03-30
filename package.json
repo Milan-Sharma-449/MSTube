@@ -1,7 +1,7 @@
 {
-  "homepage": "https:///Milan-Sharma-449.github.io/MSTube",
-  "name": "ms-tube",
-  "version": "0.1.0",
+  "homepage": "https://milansharma.site/mstube",
+  "name": "MS-Tube",
+  "version": "0.1.13",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",

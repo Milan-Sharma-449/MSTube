@@ -8,7 +8,7 @@ const App = () => (
     <Box sx={{ backgroundColor: '#000' }}>
       <NavBar />
       <Routes>
-        <Route exact path='/MSTube' element={<Feed />} />
+        <Route exact path='/mstube' element={<Feed />} />
         <Route path='/video/:id' element={<VideoDetail />} />
         <Route path='/channel/:id' element={<ChannelDetail />} />
         <Route path='/search/:searchTerm' element={<SearchFeed />} />
